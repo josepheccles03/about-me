@@ -1,0 +1,19 @@
+{
+  "name": "about-me",
+  "version": "1.0.0",
+  "description": "IDMX 225 About Me starter code",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cynthiateeters/about-me.git"
+  },
+  "author": "Cynthia Teeters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cynthiateeters/about-me/issues"
+  },
+  "homepage": "https://github.com/cynthiateeters/about-me#readme"
+}
